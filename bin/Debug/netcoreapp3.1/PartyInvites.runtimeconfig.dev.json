@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/irate-bear/.dotnet/store/|arch|/|tfm|",
+      "/home/irate-bear/.nuget/packages"
+    ]
+  }
+}
